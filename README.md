@@ -4,7 +4,7 @@
 `https://github.com/projectdiscovery/subfinder`
 `https://github.com/projectdiscovery/nuclei`
 `https://github.com/projectdiscovery/httpx`
-`https://github.com/MrEmpy/mantra`
+`https://github.com/brosck/mantra`
 `https://github.com/hahwul/dalfox`
 `https://github.com/ffuf/ffuf`
 `https://github.com/assetnote/kiterunner`
